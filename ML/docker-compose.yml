@@ -1,0 +1,13 @@
+services:
+  ml_service:
+    build: .
+    container_name: ml_service
+    volumes:
+      - ./app:/app
+    networks:
+      - shared_net
+    command: ["python", "-u", "/app/consumer.py"]
+
+networks:
+  shared_net:
+    external: true

@@ -1,0 +1,7 @@
+kafka-python
+elasticsearch==8.13.0
+spacy 
+keybert 
+sentence-transformers 
+transformers 
+torch
