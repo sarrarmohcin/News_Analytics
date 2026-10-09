@@ -1,10 +1,10 @@
-# 📰 News Pipeline – End-to-End Data Engineering Project
+# 📰 News Analytics – End-to-End Data Engineering Project
 
 ![hero](hero.png)
 
 ## 📌 Overview
 
-**News Pipeline** is an end-to-end data engineering and analytics project designed to **collect, process, enrich, store, and visualize news articles** in near real-time.
+**News Analytics** is an end-to-end data engineering and analytics project designed to **collect, process, enrich, store, and visualize news articles** in near real-time.
 
 The pipeline extracts articles from multiple **RSS news feeds**, schedules extraction jobs using **Prefect**, streams data through **Apache Kafka**, enriches articles using **Machine Learning (NLP)**, stores results in **Elasticsearch**, and finally exposes insights through an interactive **Streamlit dashboard**.
 
@@ -191,8 +191,8 @@ The project uses NLP models to enrich textual data:
 ### Installation
 
 ```bash
-git clone https://github.com/sarrarmohcin/news-pipeline.git
-cd news-pipeline
+git clone https://github.com/sarrarmohcin/News_Analytics.git
+cd News_Analytics
 ```
 
 ---
