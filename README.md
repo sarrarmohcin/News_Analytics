@@ -1,5 +1,7 @@
 # 📰 News Pipeline – End-to-End Data Engineering Project
 
+![hero](hero.png)
+
 ## 📌 Overview
 
 **News Pipeline** is an end-to-end data engineering and analytics project designed to **collect, process, enrich, store, and visualize news articles** in near real-time.
