@@ -189,7 +189,7 @@ The project uses NLP models to enrich textual data:
 ### Installation
 
 ```bash
-git clone https://github.com/datalixia/news-pipeline.git
+git clone https://github.com/sarrarmohcin/news-pipeline.git
 cd news-pipeline
 ```
 
@@ -223,12 +223,6 @@ Access dashboard on http://localhost:8501/
 Contributions are welcome!
 Feel free to open issues or submit pull requests.
 
----
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
 
 
